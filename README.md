@@ -2,7 +2,7 @@
 
 Catatan harian dan dokumentasi perjuangan gua (Avii) dari nol dalam mempelajari, mengulik, dan mendeploy AI lokal pribadi di PC rumah tanpa kuota, gratis, dan tanpa sensor.
 
---- 3 jam gua ngulik wkwk
+--- 3 jam gua ngulik wkwk (anak kecil di larang woi😹)
 
 ## 🛠️ SPESIFIKASI HARDWARE (PC DEWA SEPUH)
 * **CPU:** AMD Ryzen 3 2200G
